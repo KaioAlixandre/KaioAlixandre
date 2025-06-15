@@ -5,7 +5,10 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="310" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif de programação"/>
+<img align="right" width="310" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif codando com foco"/>
+
+
+
 
 Sou um estudante dedicado de **Ciência da Computação (5º período)**, apaixonado por tecnologia, especialmente por **Java** e **Desenvolvimento Web**. Estou sempre buscando aprender mais, escrever código limpo e construir projetos práticos que gerem valor. 🚀
 
