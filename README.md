@@ -56,11 +56,9 @@ Sou um estudante dedicado de **Ciência da Computação (5º período)**, apaixo
 
 ## 🐍 Snake contribution graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaioAlixandre/KaioAlixandre/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaioAlixandre/KaioAlixandre/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/KaioAlixandre/KaioAlixandre/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake.svg">
+</picture>
 
