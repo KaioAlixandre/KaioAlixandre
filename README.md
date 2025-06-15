@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="310" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif codando com foco"/>
+<img align="right" width="310" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="gif terminal animado">
 
 
 
